@@ -1,0 +1,1 @@
+{"name": "Piano Cascade", "short_name": "Piano Cascade", "start_url": "./index.html", "display": "standalone", "background_color": "#0f1020", "theme_color": "#0f1020", "orientation": "any", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
